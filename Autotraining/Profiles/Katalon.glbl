@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Katalon</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://katalon-demo-cura.herokuapp.com/profile.php#login'</initValue>
+      <name>Katalon_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'John Doe'</initValue>
+      <name>Katalon_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ThisIsNotAPassword'</initValue>
+      <name>Katalon_PWD</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
