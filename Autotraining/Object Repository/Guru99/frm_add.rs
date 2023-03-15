@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_closead</name>
+   <name>frm_add</name>
    <tag></tag>
-   <elementGuidId>33e4a614-cee7-49b9-af18-30f82342e4e5</elementGuidId>
+   <elementGuidId>ae52fcd7-4da4-44b2-9545-45a6076e9ce0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id='card']//*[@id=&quot;dismiss-button&quot;]</value>
+         <value>//iframe[@id='ad_iframe']</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<projectSuggestions>
+<declaringtype type="Script1678787745684">
+<property isActive="true" isStatic="false" name="FailureHandling" type="java.lang.Object">
+<doc/>
+</property>
+</declaringtype>
+<declaringtype type="java.lang.Object">
+<property isActive="true" isStatic="false" name="CONTINUE_ON_FAILURE" type="java.lang.String">
+<doc/>
+</property>
+</declaringtype>
+</projectSuggestions>
