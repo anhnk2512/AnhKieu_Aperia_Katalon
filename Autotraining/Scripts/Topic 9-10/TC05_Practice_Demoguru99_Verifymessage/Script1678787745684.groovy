@@ -21,7 +21,6 @@ WebUI.delay(5)
 if(WebUI.verifyElementPresent(findTestObject('Guru99/frm_ad'),3, FailureHandling.OPTIONAL)==true){
 	//switch to ad iframe
 	WebUI.switchToFrame(findTestObject('Guru99/frm_ad'), 0)
-	//WebUI.doubleClick(findTestObject('Guru99/frm_ad'))
 	//close the ad
 	WebUI.click(findTestObject('Object Repository/Guru99/btn_closead'))
 
@@ -35,8 +34,8 @@ if(WebUI.verifyElementPresent(findTestObject('Guru99/frm_ad'),3, FailureHandling
 	'Step 4: Click Submit button'
 	WebUI.click(findTestObject('Object Repository/Guru99/btn_submit'))
 	
-	//get user id
 	'Step 5: Get User ID and password'
+	//get user id
 	String userid = WebUI.getText(findTestObject('Guru99/txa_userid'))
 	
 	//get password
