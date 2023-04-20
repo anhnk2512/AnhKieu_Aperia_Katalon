@@ -13,7 +13,6 @@ WebUI.click(findTestObject('Object Repository/Demos/ddl_category'))
 
 'Step 3: Select item on Categories dropdown'
 String item = 'Beverages'
-WebUI.click(findTestObject('Demos/lst_categorybytext',['text': item]))
 
 'Step 4: Close browser'
 WebUI.delay(3)
